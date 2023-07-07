@@ -30,7 +30,7 @@
         "publishYear":"1996",
         "availability":true,
         "copies" : 25
-    }
+    },
     {
         "name":"Harry potter",
         "author":"Rowling",
@@ -38,7 +38,7 @@
         "publishYear":"2001",
         "availability":true,
         "copies" : 50
-    }
+    },
     {
         "name":"Helen keller: a life",
         "author":"Herrmann, Dorothy",
@@ -46,7 +46,7 @@
         "publishYear":"1999",
         "availability":true,
         "copies" : 30
-    }
+    },
     {
         "name":"Bhagwad-Gita",
         "author":"Bhaktivedanta Swami",
@@ -54,5 +54,5 @@
         "publishYear":"1972",
         "availability":true,
         "copies" : 21
-    }
+    },
 ]
