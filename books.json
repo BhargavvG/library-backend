@@ -22,5 +22,13 @@
         "publishYear":"2015",
         "availability":true,
         "copies" : 25
+    },
+    {
+        "name":"Book Name",
+        "author":"John Smith",
+        "Genre": "English",
+        "publishYear":"2015",
+        "availability":true,
+        "copies" : 25
     }
 ]
